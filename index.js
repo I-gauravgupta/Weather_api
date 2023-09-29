@@ -34,7 +34,7 @@ if(obj.weather[0].main=="Clouds"){
     wicon.src="/clouds.png"
 }
 if(obj.weather[0].main=="Clear"){
-    wicon.src="/clear.png"
+    wicon.src="clear.png"
 }
 if(obj.weather[0].main=="Drizzle"){
     wicon.src="/drizzle.png"}
